@@ -1,39 +1,34 @@
-# ¡Hola! 👋 Soy Jorge Rodríguez
+# 🚀 Hola, soy Jorge Luis Rodríguez Andino
 
-🎯 Soy un entusiasta de la programación autodidacta, aprendiendo Python paso a paso desde cero. Mi meta es desarrollar proyectos útiles, compartirlos y construir una fuente de ingresos gracias al conocimiento.
-
----
-
-## 🛠️ Habilidades actuales
-
-- Python básico e intermedio 🐍
-- Funciones, condicionales, `input`, manejo de archivos `.csv`
-- Google Colab, Git y GitHub
-- Mentalidad práctica y enfocada en resultados 💡
+¡Bienvenido a mi espacio de experimentación técnica! Soy un apasionado de la **IA Generativa** y el **Edge Computing**, enfocado en llevar la potencia de los grandes modelos de lenguaje (LLMs) a hardware cotidiano.
 
 ---
 
-## 🚀 Mis primeros proyectos
+## 🛠️ Mi Proyecto Destacado: SAD_CORE
+**SAD_CORE** es un nodo de inferencia local para Android que permite ejecutar modelos de 1.5B parámetros de forma eficiente en dispositivos móviles.
 
-- [Evaluador de Alumnos 📊](https://github.com/xXTheGeorgeXx/evaluador-alumnos)  
-  Calcula promedios de estudiantes, informa si aprueban y guarda los resultados en un archivo CSV.
+* **Entrenamiento:** Fine-Tuning (SFT) con Unsloth.
+* **Optimización:** Cuantización GGUF (8-bit) para arquitecturas ARM64.
+* **Despliegue:** Automatización completa en Termux.
 
----
-
-## 🔭 Próximos pasos
-
-- Automatizar tareas con Python
-- Aprender estructuras como listas y diccionarios
-- Empezar a desarrollar aplicaciones reales
-- Crear un portafolio sólido
+👉 [Ver el repositorio de SAD_CORE](https://github.com/xXTheGeorgeXx/IA_mobile) | [Ver modelo en Hugging Face](https://huggingface.co/xXGioXx/sad_core_v1_q8)
 
 ---
 
-## 📫 Contacto
-
-Por ahora podés escribirme por GitHub o dejar un issue en cualquiera de mis proyectos.  
-Estoy abierto a aprender, colaborar y crecer 🚀
+## 🧠 Áreas de Interés
+* **Edge AI:** Ejecución de SLMs (Small Language Models) sin conexión a internet.
+* **SFT (Supervised Fine-Tuning):** Especialización de modelos en lógica y programación.
+* **Optimización de Hardware:** Estirando los límites de la RAM y CPU en dispositivos móviles.
 
 ---
 
-> *“No se necesita un título universitario para resolver problemas reales, solo iniciativa y constancia.”*
+## 📊 Stack Tecnológico
+* **Lenguajes:** Python, Shell Scripting (Bash).
+* **IA/ML:** Hugging Face Ecosystem, Llama.cpp, Unsloth, PyTorch.
+* **Entornos:** Linux (Debian/Ubuntu), Termux (Android).
+
+---
+
+## 📫 Contacto & Colaboraciones
+Si te interesa la IA local o la optimización de modelos, ¡hablemos!
+- **Hugging Face:** [@xXGioXx](https://huggingface.co/xXGioXx)
